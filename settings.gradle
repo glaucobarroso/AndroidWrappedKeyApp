@@ -1,0 +1,2 @@
+rootProject.name = "AndroidWrappedKeyApp"
+include ':app'
